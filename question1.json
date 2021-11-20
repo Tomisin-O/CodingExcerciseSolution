@@ -210,4 +210,4 @@
         (objectQ1Scores[key]).sort;
     });
 
-    console.log();
+    console.log(objectQ1Scores);
