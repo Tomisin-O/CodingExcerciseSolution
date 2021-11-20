@@ -1,4 +1,4 @@
-# CodingExcerciseSolution
+# Coding Excercise Solution
 
 My solutions for the two coding questions.
 
