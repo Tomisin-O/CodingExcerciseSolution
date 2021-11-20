@@ -1,0 +1,219 @@
+{
+    "objArray":
+    [
+        {
+            "sentence pair id": "BG_SE_1",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_01",
+            "q1 score": "0",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Защо американският флаг се развява? ",
+            "machine translation": "Как се развява това американско знаме?",
+            "original": "How did that US flag wave?"
+        },
+        {
+            "sentence pair id": "BG_SE_1",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_01",
+            "q1 score": "37",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Защо американският флаг се развява? ",
+            "machine translation": "Как се развява това американско знаме?",
+            "original": "How did that US flag wave?"
+        },
+        {
+            "sentence pair id": "BG_SE_1",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_03",
+            "q1 score": "54",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Защо американският флаг се развява? ",
+            "machine translation": "Как се развява това американско знаме?",
+            "original": "How did that US flag wave?"
+        },
+        {
+            "sentence pair id": "BG_SE_1",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_02",
+            "q1 score": "97",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Защо американският флаг се развява? ",
+            "machine translation": "Как се развява това американско знаме?",
+            "original": "How did that US flag wave?"
+        },
+        {
+            "sentence pair id": "BG_SE_1",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_02",
+            "q1 score": "55",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Защо американският флаг се развява? ",
+            "machine translation": "Как се развява това американско знаме?",
+            "original": "How did that US flag wave?"
+        },
+        {
+            "sentence pair id": "BG_SE_2",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_02",
+            "q1 score": "100",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Като този пожар в столицата на Аляска Енкоридж. ",
+            "machine translation": "Като този пожар в столицата на Аляска - Анкоридж.",
+            "original": "Like this fire in Alaska's capital, Anchorage. "
+        },
+        {
+            "sentence pair id": "BG_SE_2",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_01",
+            "q1 score": "96",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Като този пожар в столицата на Аляска Енкоридж. ",
+            "machine translation": "Като този пожар в столицата на Аляска - Анкоридж.",
+            "original": "Like this fire in Alaska's capital, Anchorage. "
+        },
+        {
+            "sentence pair id": "BG_SE_2",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_01",
+            "q1 score": "100",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Като този пожар в столицата на Аляска Енкоридж. ",
+            "machine translation": "Като този пожар в столицата на Аляска - Анкоридж.",
+            "original": "Like this fire in Alaska's capital, Anchorage. "
+        },
+        {
+            "sentence pair id": "BG_SE_2",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_03",
+            "q1 score": "92",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Като този пожар в столицата на Аляска Енкоридж. ",
+            "machine translation": "Като този пожар в столицата на Аляска - Анкоридж.",
+            "original": "Like this fire in Alaska's capital, Anchorage. "
+        },
+        {
+            "sentence pair id": "BG_SE_2",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_02",
+            "q1 score": "100",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Като този пожар в столицата на Аляска Енкоридж. ",
+            "machine translation": "Като този пожар в столицата на Аляска - Анкоридж.",
+            "original": "Like this fire in Alaska's capital, Anchorage. "
+        },
+        {
+            "sentence pair id": "BG_SE_3",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_01",
+            "q1 score": "100",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Направиха проверка на Юрий дали не е жертва на сексуален тормоз. ",
+            "machine translation": "Юри е проверен дали е жертва на сексуални престъпления.",
+            "original": "Yuri was checked as to whether he was a victim of sexual offenses. "
+        },
+        {
+            "sentence pair id": "BG_SE_3",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_02",
+            "q1 score": "86",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Направиха проверка на Юрий дали не е жертва на сексуален тормоз. ",
+            "machine translation": "Юри е проверен дали е жертва на сексуални престъпления.",
+            "original": "Yuri was checked as to whether he was a victim of sexual offenses. "
+        },
+        {
+            "sentence pair id": "BG_SE_3",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_02",
+            "q1 score": "95",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Направиха проверка на Юрий дали не е жертва на сексуален тормоз. ",
+            "machine translation": "Юри е проверен дали е жертва на сексуални престъпления.",
+            "original": "Yuri was checked as to whether he was a victim of sexual offenses. "
+        },
+        {
+            "sentence pair id": "BG_SE_3",
+            "sentence pair type": "A",
+            "evaluator id": "BBC_Bulgarian_03",
+            "q1 score": "100",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Направиха проверка на Юрий дали не е жертва на сексуален тормоз. ",
+            "machine translation": "Юри е проверен дали е жертва на сексуални престъпления.",
+            "original": "Yuri was checked as to whether he was a victim of sexual offenses. "
+        },
+        {
+            "sentence pair id": "BG_SE_3",
+            "sentence pair type": "A",
+            "evaluator id": "DW_Bulgarian_01",
+            "q1 score": "97",
+            "q2 score": "0",
+            "target language": "BG",
+            "human translation": "Направиха проверка на Юрий дали не е жертва на сексуален тормоз. ",
+            "machine translation": "Юри е проверен дали е жертва на сексуални престъпления.",
+            "original": "Yuri was checked as to whether he was a victim of sexual offenses. "
+        }
+    ]
+    }
+
+    let objectIdOne = [];
+    let objectIdTwo = [];
+    let arrayIdThree = [];
+    let objectQ1Scores = new Object();
+
+    for (let i = 0; i < objArray.length; i++) {
+        let object = objArray[i];
+        //creating a new object key gor the sentence pair id
+        let sentenceID = (object["sentence pair id"]);
+
+
+        if (sentenceID == "BG_SE_1") {
+            //pushing the objects only with the sentence ID of "BG_SE_1" to arrayIdOne
+            objectIdOne.push(object);
+            //filtering the object so that the only key is q1 score
+            let scoresofIDOne = objectIdOne.map(a => a["q1 score"])
+            objectQ1Scores[sentenceID] = scoresofIDOne.map(Number);
+        }
+
+        if (sentenceID === "BG_SE_2") {
+            objectIdTwo.push(object);
+            let scoresofIDTwo = objectIdTwo.map(a => a["q1 score"])
+            objectQ1Scores[sentenceID] = scoresofIDTwo.map(Number);
+        }
+
+        if (sentenceID === "BG_SE_3") {
+            arrayIdThree.push(object);
+            let scoresofIDThree = arrayIdThree.map(a => a["q1 score"]);
+            objectQ1Scores[sentenceID] = scoresofIDThree.map(Number);
+        }
+    }
+
+    Object.keys(objectQ1Scores).map(function(key) {
+        var frequency = objectQ1Scores[key].length;
+        const sum = objectQ1Scores[key].reduce((partial_sum, a) => partial_sum + a);
+        let average = (sum / frequency);
+
+        objectQ1Scores[key] = average;
+        (objectQ1Scores[key]).sort;
+    });
+
+    let lowestScore = (Object.keys(objectQ1Scores)[0]);
+    let lastKey = Object.keys(objectQ1Scores).pop()
+    let lastValue = Object.keys(objectQ1Scores).pop();
+
+    console.log(objectQ1Scores);
+    console.log(lowestScore);
+    console.log(lastValue);
